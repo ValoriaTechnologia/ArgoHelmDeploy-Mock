@@ -5,7 +5,7 @@ metadata:
 spec:
   source:
     chart: my-chart
-    targetRevision: "1.0.0"
+    targetRevision: 2.0.0
   destination:
     server: https://kubernetes.default.svc
     namespace: default
