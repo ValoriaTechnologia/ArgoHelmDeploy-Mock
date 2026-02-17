@@ -1,3 +1,5 @@
 packages:
   - name: argo-app
     path: ./application.yaml
+  - name: argo-app2
+    path: ./$/application.yaml
